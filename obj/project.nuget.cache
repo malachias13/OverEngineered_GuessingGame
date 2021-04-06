@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HE/MFPNBYCAqXbR+EpG2myqedKUBYMmm8w2XCJ7+NugEXnxtrOR+8BHib+JFcn8q72uloCwGFJcXLri+cnO78A==",
+  "success": true,
+  "projectFilePath": "D:\\ITP202003\\InteractiveGussingGame\\InteractiveGussingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malac\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\malac\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\malac\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\malac\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
